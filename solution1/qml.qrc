@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file>main.qml</file>
+        <file>MyText.qml</file>
+        <file>MyTextBase.qml</file>
+        <file>+new/MyText.qml</file>
+    </qresource>
+</RCC>
